@@ -1,0 +1,10 @@
+{
+    "total_students": 22,
+    "students_by_country": {
+        "Singapore": 8,
+        "Australia": 8,
+        "Malaysia": 6
+    },
+    "challenge_completion_rate": 0.3636,
+    "status_column_used": "bet_status"
+}
