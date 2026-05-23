@@ -9,3 +9,7 @@ pip install -r requirements.txt
 - CSV analyser: `python Project1_CSV_Student_Data_Analyser.py students_list.csv`
 - Config editor: `python Project2_JSON_Configuration_File_Read.py`
 - String utils tests: `pytest`
+
+### Requirement 
+pandas
+pytest
