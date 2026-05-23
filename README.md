@@ -6,6 +6,6 @@ Three Python mini-projects: JSON config editor, CSV analyser, string utils with 
 pip install -r requirements.txt
 
 ## Run
-- Config editor: `python project2_config_editor.py`
-- CSV analyser: `python csv_analyser.py students_list.csv`
-- Tests: `pytest`
+- CSV analyser: `python Project1_CSV_Student_Data_Analyser.py students_list.csv`
+- Config editor: `python Project2_JSON_Configuration_File_Read.py`
+- String utils tests: `pytest`
