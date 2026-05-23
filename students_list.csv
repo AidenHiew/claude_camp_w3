@@ -1,0 +1,6 @@
+name,email,join_date,country,challenge_status
+Alice,alice@x.com,2025-01-01,Australia,Completed
+Bob,bob@x.com,2025-01-02,Malaysia,In Progress
+Carol,carol@x.com,2025-01-03,Australia,Completed
+Dan,dan@x.com,2025-01-04,Singapore,Not Started
+Eve,eve@x.com,2025-01-05,Malaysia,Completed
