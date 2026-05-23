@@ -11,5 +11,5 @@ pip install -r requirements.txt
 - String utils tests: `pytest`
 
 ### Requirement 
-pandas
-pytest
+- pandas
+- pytest
